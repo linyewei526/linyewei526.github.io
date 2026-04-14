@@ -59,7 +59,8 @@ My current research focuses on **Efficient AI Systems**, with particular emphasi
 
 🏆 Honors and Awards {#honors}
 ------
-TBD1
+- <span class="news-date3">[2025.10]</span> Presidential Scholarship for Ph.D. Students, Institute for Artificial Intelligence, Peking University
+- <span class="news-date3">[2025.09]</span> Dean’s Scholarship for Ph.D. Students, School of Integrated Circuits, Peking University
 
 🎖️ Competition Awards {#competition}
 ------
