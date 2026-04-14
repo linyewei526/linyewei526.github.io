@@ -37,7 +37,9 @@ My current research focuses on **Efficient AI Systems**, with particular emphasi
 
 🎉 Publications {#publications}
 ------
-TBD
+- TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration  
+  **Linye Wei**, Zixiang Luo, Pingzhi Tang, Meng Li  
+  Arxiv 2026, [Paper](http://arxiv.org/abs/2602.08404){:target="_blank"} [Github](https://github.com/PKU-SECLab/TEAM-MoE-dLLM){:target="_blank"}
 
 🏆 Honors and Awards {#honors}
 ------
