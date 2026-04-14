@@ -13,9 +13,9 @@ I am currently a first-year PH.D. student at Institute for Artificial Intelligen
 
 🎓 Educations {#educations}
 ------
-- <span class="news-date1">[2025.09-Now]</span> PH.D., School of Integrated Circuits, Peking University (PKU)
+-<span class="news-date1">[2025.09-Now]</span> PH.D., School of Integrated Circuits, Peking University (PKU)
   
-- <span class="news-date1">[2021.09-2025.06]</span> B.S., Chien-Shiung Wu College (with Honors), Southeast University (SEU)
+-<span class="news-date1">[2021.09-2025.06]</span> B.S., Chien-Shiung Wu College (with Honors), Southeast University (SEU)
 
 🔥 News {#news}
 ------
