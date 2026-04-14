@@ -64,5 +64,5 @@ My current research focuses on **Efficient AI Systems**, with particular emphasi
 
 🎖️ Competition Awards {#competition}
 ------
-- <span class="news-date3">[2025.06]</span> 1st-place in the System Design Contest of DAC 2025
+- <span class="news-date3">[2025.06]</span> 1st-place in the System Design Contest of DAC 2025  
   **Linye Wei**, Wenxuan Zeng, Jiangrui Yu, Zizhuo Fu, Ziyu Tang, Tianjian Yang, Meng Li
