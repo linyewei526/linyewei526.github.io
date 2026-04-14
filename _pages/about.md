@@ -9,13 +9,13 @@ redirect_from:
 
 <a id="about-me"></a>
 
-I am currently a first-year PH.D. student at Institute for Artificial Intelligence & School of Integrated Circuits, Peking University (PKU), advised by [Prof. Meng Li](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/lim/index.htm){:target="_blank"}. Prior to it, I received my B.S. degree from Chien-Shiung Wu College and School of Future Technology, Southeast University, majoring in Electronic Science and Engineering.
+I am currently a first-year Ph.D. student at Institute for Artificial Intelligence & School of Integrated Circuits, Peking University (PKU), advised by [Prof. Meng Li](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/lim/index.htm){:target="_blank"}. Prior to that, I received my B.S. degree from Chien-Shiung Wu College and School of Future Technology, Southeast University, majoring in Electronic Science and Engineering.
 
-My current research focuses on **efficient AI systems**, with particular emphasis on **LLM inference acceleration** and **efficient multimodal synthesis**.
+My current research focuses on **Efficient AI Systems**, with particular emphasis on **LLM Inference Acceleration** and **Efficient Multimodal Synthesis**.
 
 🎓 Educations {#educations}
 ------
-- <span class="news-date1">[2025.09-Now]</span> PH.D., School of Integrated Circuits, Peking University (PKU)
+- <span class="news-date1">[2025.09-Now]</span> Ph.D., School of Integrated Circuits, Peking University (PKU)
   
 - <span class="news-date1">[2021.09-2025.06]</span> B.S., Chien-Shiung Wu College (with Honors), Southeast University (SEU)
 
