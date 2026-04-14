@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Linye Wei's Homepage"
+title: "Linye Wei (韦临烨)"
 author_profile: true
 redirect_from: 
   - /about/
