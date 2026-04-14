@@ -43,7 +43,11 @@ My current research focuses on **Efficient AI Systems**, with particular emphasi
 
 - Orchestrating Dual-Boundaries: An Arithmetic Intensity Inspired Acceleration Framework for Diffusion Language Models  
   **Linye Wei**, Wenjue Chen, Pingzhi Tang, Xiaotian Guo, Le Ye, Runsheng Wang, Meng Li  
-  DAC 2026, **CCF-A**, \[[Paper](http://arxiv.org/abs/2511.21759){:target="_blank"}\] \[[Github](https://github.com/PKU-SEC-Lab/ODB-dLLM){:target="_blank"}\]
+  **DAC 2026**, **CCF-A**, \[[Paper](http://arxiv.org/abs/2511.21759){:target="_blank"}\] \[[Github](https://github.com/PKU-SEC-Lab/ODB-dLLM){:target="_blank"}\]
+
+- No Redundancy, No Stall: Lightweight Streaming 3D Gaussian Splatting for Real-time Rendering  
+  **Linye Wei**, Jiajun Tang, Fan Fei, Boxin Shi, Runsheng Wang, Meng Li  
+  **ICCAD 2025**, **CCF-B**, \[[Paper](http://arxiv.org/abs/2507.21572){:target="_blank"}\]
 
 🏆 Honors and Awards {#honors}
 ------
