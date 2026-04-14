@@ -49,6 +49,14 @@ My current research focuses on **Efficient AI Systems**, with particular emphasi
   **Linye Wei**, Jiajun Tang, Fan Fei, Boxin Shi, Runsheng Wang, Meng Li  
   **ICCAD 2025**, **CCF-B**, \[[Paper](http://arxiv.org/abs/2507.21572){:target="_blank"}\]
 
+- SpecASR: Accelerating LLM-based Automatic Speech Recognition via Speculative Decoding  
+  **Linye Wei**, Shuzhang Zhong, Songqiang Xu, Runsheng Wang, Ru Huang, Meng Li  
+  **DAC 2025**, **CCF-A**, \[[Paper](http://arxiv.org/abs/2507.18181){:target="_blank"}\]
+
+- VR-YOLO: Enhancing PCB Defect Detection with Viewpoint Robustness Based on YOLO  
+  Hengyi Zhu\*, **Linye Wei\***, He Li  
+  **WF-IoT 2025**, \[[Paper](http://arxiv.org/abs/2507.02963){:target="_blank"}\] \[[Github](https://github.com/linyewei526/VR-YOLO){:target="_blank"}\]
+
 🏆 Honors and Awards {#honors}
 ------
 TBD
