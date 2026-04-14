@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently a first-year Ph.D. student at Institute for Artificial Intelligence & School of Integrated Circuits, Peking University (PKU), advised by [Prof. Meng Li](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/lim/index.htm){:target="_blank"}. Prior to that, I received my B.S. degree from Chien-Shiung Wu College and School of Future Technology, Southeast University, majoring in Electronic Science and Engineering.
 
-My current research focuses on **Efficient AI Systems**, with particular emphasis on **LLM Inference Acceleration** and **Efficient Multimodal Synthesis**.
+My current research focuses on **Efficient AI Systems**, with particular emphasis on **LLM Inference Acceleration** and **Multimodal Synthesis**.
 
 🎓 Educations {#educations}
 ------
