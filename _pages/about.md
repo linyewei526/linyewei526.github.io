@@ -59,10 +59,22 @@ My current research focuses on **Efficient AI Systems**, with particular emphasi
 
 🏆 Honors and Awards {#honors}
 ------
-- <span class="news-date3">[2025.11]</span> Presidential Scholarship for Ph.D. Students, School of Integrated Circuits, Peking University
-- <span class="news-date3">[2025.10]</span> Dean’s Scholarship for Ph.D. Students, Institute for Artificial Intelligence, Peking University
+- <span class="news-date3">[2025.11]</span> Presidential Scholarship for Ph.D. Students, Peking University
+- <span class="news-date3">[2025.10]</span> Dean’s Scholarship for Ph.D. Students, Peking University
+- <span class="news-date3">[2024.09]</span> Merit Student, Southeast University
+- <span class="news-date3">[2023.12]</span> Future Technology TAIHU Scholarship, Southeast University
+- <span class="news-date3">[2023.09]</span> Merit Student, Southeast University
+- <span class="news-date3">[2023.05]</span> Outstanding Youth League Member, Southeast University
+- <span class="news-date3">[2022.12]</span> ZHISHAN Scholarship, Southeast University
+- <span class="news-date3">[2022.10]</span> Presidential Scholarship, Southeast University
+- <span class="news-date3">[2022.09]</span> Merit Student, Southeast University
 
 🎖️ Competition Awards {#competition}
 ------
 - <span class="news-date3">[2025.06]</span> First place in the System Design Contest of DAC 2025  
   **Linye Wei**, Wenxuan Zeng, Jiangrui Yu, Zizhuo Fu, Ziyu Tang, Tianjian Yang, Meng Li
+- <span class="news-date3">[2023.09]</span> Second Prize, 2023 National Undergraduate Electronic Design Competition
+- <span class="news-date3">[2023.09]</span> First Prize (Jiangsu Division), 2023 National Undergraduate Electronic Design Competition
+- <span class="news-date3">[2023.01]</span> First Prize, 14th National College Student Mathematics Competition
+- <span class="news-date3">[2022.11]</span> Second Prize, 19th Jiangsu Province Advanced Mathematics Competition
+- <span class="news-date3">[2022.10]</span> First Prize (Jiangsu Division), 2022 National Undergraduate Mathematical Contest in Modeling
