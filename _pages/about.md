@@ -23,9 +23,9 @@ My current research focuses on **Efficient AI Systems**, with particular emphasi
 ------
 - <span class="news-date2">**May 17, 2025**</span> 🎉 Our work **[ODB-dLLM](http://arxiv.org/abs/2511.21759){:target="_blank"}** is accepted by **DAC 2026**!
 
-- <span class="news-date2">**Oct 23, 2025**</span> 🏆 I receive **Presidential Scholarship** for Ph.D. Students from Institute for Artificial Intelligence, Peking University!
+- <span class="news-date2">**Oct 23, 2025**</span> 🏆 I receive **Presidential Scholarship** for Ph.D. Students from Peking University!
 
-- <span class="news-date2">**Sep 02, 2025**</span> 🏆 I receive **Dean’s Scholarship** for Ph.D. Students from School of Integrated Circuits, Peking University!
+- <span class="news-date2">**Sep 02, 2025**</span> 🏆 I receive **Dean’s Scholarship** for Ph.D. Students from Peking University!
 
 - <span class="news-date2">**Jul 01, 2025**</span> 🎉 Our work **[LS-Gaussian](http://arxiv.org/abs/2507.21572){:target="_blank"}** is accepted by **ICCAD 2025**!
 
