@@ -29,7 +29,7 @@ My current research focuses on **Efficient AI Systems**, with particular emphasi
 
 - <span class="news-date2">**Jul 01, 2025**</span> 🎉 Our work **[LS-Gaussian](http://arxiv.org/abs/2507.21572){:target="_blank"}** is accepted by **ICCAD 2025**!
 
-- <span class="news-date2">**Jun 26, 2025**</span> 🥇 Our Team win the **1st-place** in the System Design Contest of **DAC 2025**!
+- <span class="news-date2">**Jun 26, 2025**</span> 🥇 Our Team win the **first place** in the System Design Contest of **DAC 2025**!
 
 - <span class="news-date2">**Feb 15, 2025**</span> 🎉 Our work **[SpecASR](http://arxiv.org/abs/2507.18181){:target="_blank"}** is accepted by **DAC 2025**!
 
@@ -64,5 +64,5 @@ My current research focuses on **Efficient AI Systems**, with particular emphasi
 
 🎖️ Competition Awards {#competition}
 ------
-- <span class="news-date3">[2025.06]</span> 1st-place in the System Design Contest of DAC 2025  
+- <span class="news-date3">[2025.06]</span> First place in the System Design Contest of DAC 2025  
   **Linye Wei**, Wenxuan Zeng, Jiangrui Yu, Zizhuo Fu, Ziyu Tang, Tianjian Yang, Meng Li
