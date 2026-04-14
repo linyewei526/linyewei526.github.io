@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Linye Wei's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : "Linye Wei"
 description              : "Linye Wei's academic homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
