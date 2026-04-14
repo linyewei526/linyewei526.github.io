@@ -41,6 +41,10 @@ My current research focuses on **Efficient AI Systems**, with particular emphasi
   **Linye Wei**, Zixiang Luo, Pingzhi Tang, Meng Li  
   Arxiv 2026, [Paper](http://arxiv.org/abs/2602.08404){:target="_blank"} [Github](https://github.com/PKU-SECLab/TEAM-MoE-dLLM){:target="_blank"}
 
+- Orchestrating Dual-Boundaries: An Arithmetic Intensity Inspired Acceleration Framework for Diffusion Language Models  
+  **Linye Wei**, Wenjue Chen, Pingzhi Tang, Xiaotian Guo, Le Ye, Runsheng Wang, Meng Li  
+  DAC 2026, **CCF-A**, [Paper](http://arxiv.org/abs/2511.21759){:target="_blank"} [Github](https://github.com/PKU-SEC-Lab/ODB-dLLM){:target="_blank"}
+
 🏆 Honors and Awards {#honors}
 ------
 TBD
