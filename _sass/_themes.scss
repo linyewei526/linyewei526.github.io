@@ -49,7 +49,7 @@ $caption-font-family        : $serif;
 
 @include breakpoint-set("to ems", true);
 
-$small                      : 700px !default;
+$small                      : 600px !default;
 $medium                     : 868px !default;
 $medium-wide                : 1000px !default;
 $large                      : 1050px !default;
