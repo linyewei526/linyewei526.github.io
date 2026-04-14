@@ -24,13 +24,13 @@ repository               : "linyewei526.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Linye Wei"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Efficient AI, Ph.D. Student"
+  location         : "Beijing, China"
+  employer         : "Peking University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lywei25@stu.pku.edu.cn" 
 
   # Academic websites
   academia         : # URL
