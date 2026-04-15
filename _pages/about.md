@@ -14,8 +14,9 @@ I am currently a first-year Ph.D. student at Institute for Artificial Intelligen
 My current research focuses on **Efficient AI Systems**, with particular emphasis on **LLM Inference Acceleration**, **Algorithm-System Co-design** and **Multimodal Synthesis**.
 
 My resumes are available here: 
-[**[EN]**]({{ base_path }}/files/cv-en.pdf){:target="_blank" rel="noopener noreferrer"} 
-[**[CN]**]({{ base_path }}/files/cv-cn.pdf){:target="_blank" rel="noopener noreferrer"}
+[[EN]({{ base_path }}/files/cv-en.pdf){:target="_blank" rel="noopener noreferrer"}] 
+[[CN]({{ base_path }}/files/cv-cn.pdf){:target="_blank" rel="noopener noreferrer"}]
+Feel free to contact me at **lywei25@stu.pku.edu.cn**. I look forward to potential collaborations and academic exchanges.
 
 🎓 Educations {#educations}
 ------
