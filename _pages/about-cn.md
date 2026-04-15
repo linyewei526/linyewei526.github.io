@@ -4,38 +4,6 @@ title: "韦临烨"
 author_profile: true
 ---
 
-<!-- 复制原导航栏结构，改为中文 -->
-<div class="masthead__menu" style="margin-bottom: 20px; border-bottom: 1px solid #e8e8e8; padding-bottom: 10px;">
-  <nav class="greedy-nav">
-    <ul class="visible-links" style="list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; align-items: center;">
-      <li class="masthead__menu-item masthead__menu-item--lg persist" style="margin-right: 20px; font-weight: bold;">
-        <a href="/cn/" style="color: #333;">首页</a>
-      </li>
-      <li class="masthead__menu-item" style="margin-right: 15px;">
-        <a href="#about-me" style="color: #333;">关于我</a>
-      </li>
-      <li class="masthead__menu-item" style="margin-right: 15px;">
-        <a href="#educations" style="color: #333;">教育经历</a>
-      </li>
-      <li class="masthead__menu-item" style="margin-right: 15px;">
-        <a href="#news" style="color: #333;">新闻动态</a>
-      </li>
-      <li class="masthead__menu-item" style="margin-right: 15px;">
-        <a href="#publications" style="color: #333;">发表论文</a>
-      </li>
-      <li class="masthead__menu-item" style="margin-right: 15px;">
-        <a href="#honors" style="color: #333;">荣誉奖项</a>
-      </li>
-      <li class="masthead__menu-item" style="margin-right: 15px;">
-        <a href="#competition" style="color: #333;">竞赛获奖</a>
-      </li>
-      <li class="masthead__menu-item" style="margin-left: auto;">
-        <a href="/" style="color: #004080; font-weight: bold; border: 1px solid #004080; padding: 2px 8px; border-radius: 3px;">EN</a>
-      </li>
-    </ul>
-  </nav>
-</div>
-
 <a id="about-me"></a>
 
 我目前是北京大学人工智能研究院与集成电路学院博士一年级研究生，导师为[李萌教授](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/lim/index.htm){:target="_blank"}。此前，我于东南大学吴健雄学院（荣誉学院）、未来技术学院获得学士学位，主修专业为电子科学与工程。
