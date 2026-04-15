@@ -13,6 +13,10 @@ I am currently a first-year Ph.D. student at Institute for Artificial Intelligen
 
 My current research focuses on **Efficient AI Systems**, with particular emphasis on **LLM Inference Acceleration**, **Algorithm-System Co-design** and **Multimodal Synthesis**.
 
+My resumes are available here: 
+[**[EN]**]({{ base_path }}/files/cv-en.pdf){:target="_blank" rel="noopener noreferrer"} 
+[**[CN]**]({{ base_path }}/files/cv-cn.pdf){:target="_blank" rel="noopener noreferrer"}
+
 🎓 Educations {#educations}
 ------
 - <span class="news-date1">[2025.09-Now]</span> Ph.D., School of Integrated Circuits, Peking University (PKU)
