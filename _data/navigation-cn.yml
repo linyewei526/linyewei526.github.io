@@ -1,0 +1,31 @@
+# The following is the order of the links in the header of the website.
+#
+# Changing the order here will adjust the order and you can also add additional
+# links. Removing a link prevents it from showing in the header, but does not
+# prevent it from being included in the site.
+#
+# NOTE that only one of the CV options should be selected, the first is for the
+#      Markdown formatted page while the second is generated using JSON.
+
+main:
+  # 中文版导航
+  - title: "关于我"
+    url: "#about-me"
+
+  - title: "教育经历"
+    url: "#educations"
+
+  - title: "新闻动态"
+    url: "#news"
+
+  - title: "发表论文"
+    url: "#publications"
+
+  - title: "荣誉激励"
+    url: "#honors"
+
+  - title: "竞赛获奖"
+    url: "#competition"
+
+  - title: "EN"
+    url: /          # 跳回英文版
