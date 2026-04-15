@@ -49,3 +49,6 @@ main:
 
   - title: "Competition Awards"
     url: "#competition"
+
+  - title: "CN"
+    url: /cn/          # ← 跳转到中文版
