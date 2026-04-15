@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /cn/
 title: "韦临烨"
 author_profile: true
 sidebar:
