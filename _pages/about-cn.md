@@ -31,7 +31,7 @@ author_profile: true
 
 - <span class="news-date2">**Jul 01, 2025**</span> 🎉 我们的工作 **[LS-Gaussian](http://arxiv.org/abs/2507.21572){:target="_blank"}** 被 **ICCAD 2025** 接收!
 
-- <span class="news-date2">**Jun 26, 2025**</span> 🥇 我们团队获得了**DAC 2025**系统设计竞赛**第一名**!
+- <span class="news-date2">**Jun 26, 2025**</span> 🥇 我们团队获得了 **DAC 2025** 系统设计竞赛**第一名**!
 
 - <span class="news-date2">**Feb 15, 2025**</span> 🎉 我们的工作 **[SpecASR](http://arxiv.org/abs/2507.18181){:target="_blank"}** 被 **DAC 2025** 接收!
 
