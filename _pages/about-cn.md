@@ -13,7 +13,7 @@ author_profile: true
 这是我的个人简历: 
 [[EN]({{ base_path }}/files/cv-en.pdf){:target="_blank" rel="noopener noreferrer"}] 
 [[CN]({{ base_path }}/files/cv-cn.pdf){:target="_blank" rel="noopener noreferrer"}]
-欢迎随时通过邮箱**lywei25@stu.pku.edu.cn**联系我。期待与您的合作与交流。
+欢迎随时通过邮箱**lywei25@stu.pku.edu.cn**与我联系。期待与您的合作与交流。
 
 🎓 教育经历 {#educations}
 ------
