@@ -11,8 +11,8 @@ author_profile: true
 我目前的研究兴趣主要聚焦于**高效人工智能系统**，重点关注**大语言模型推理加速**，**算法-系统协同设计**与**多模态**。
 
 这是我的个人简历: 
-[[EN]({{ base_path }}/files/cv-en.pdf){:target="_blank" rel="noopener noreferrer"}] 
-[[CN]({{ base_path }}/files/cv-cn.pdf){:target="_blank" rel="noopener noreferrer"}]
+[[CN]({{ base_path }}/files/cv-cn-260421.pdf){:target="_blank" rel="noopener noreferrer"}]
+[[EN]({{ base_path }}/files/cv-en-260421.pdf){:target="_blank" rel="noopener noreferrer"}] 
 欢迎随时通过邮箱 **lywei25@stu.pku.edu.cn** 与我联系。期待与您的合作与交流。
 
 🎓 教育经历 {#educations}
