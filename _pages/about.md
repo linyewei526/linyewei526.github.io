@@ -14,8 +14,8 @@ I am currently a first-year Ph.D. student at Institute for Artificial Intelligen
 My current research focuses on **Efficient AI Systems**, with particular emphasis on **LLM Inference Acceleration**, **Algorithm-System Co-design** and **Multimodal Synthesis**.
 
 My resumes are available here: 
-[[EN]({{ base_path }}/files/cv-en-260421.pdf){:target="_blank" rel="noopener noreferrer"}] 
-[[CN]({{ base_path }}/files/cv-cn-260421.pdf){:target="_blank" rel="noopener noreferrer"}]
+[[EN]({{ base_path }}/files/cv-en-260501.pdf){:target="_blank" rel="noopener noreferrer"}] 
+[[CN]({{ base_path }}/files/cv-cn-260501.pdf){:target="_blank" rel="noopener noreferrer"}]
 Feel free to contact me at **lywei25@stu.pku.edu.cn**. I look forward to potential collaborations and academic exchanges.
 
 🎓 Educations {#educations}
@@ -26,6 +26,8 @@ Feel free to contact me at **lywei25@stu.pku.edu.cn**. I look forward to potenti
 
 🔥 News {#news}
 ------
+- <span class="news-date2">**May 01, 2026**</span> 🎉 Our work **[TEAM](http://arxiv.org/abs/2602.08404){:target="_blank"}** is accepted by **ICML 2026**!
+
 - <span class="news-date2">**Feb 24, 2026**</span> 🎉 Our work **[ODB-dLLM](http://arxiv.org/abs/2511.21759){:target="_blank"}** is accepted by **DAC 2026**!
 
 - <span class="news-date2">**Oct 23, 2025**</span> 🏆 I receive **Presidential Scholarship** for Ph.D. Students from Peking University!
@@ -44,7 +46,7 @@ Feel free to contact me at **lywei25@stu.pku.edu.cn**. I look forward to potenti
 ------
 - TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration  
   **Linye Wei**, Zixiang Luo, Pingzhi Tang, Meng Li  
-  **Arxiv 2026**, **Under review**, \[[Paper](http://arxiv.org/abs/2602.08404){:target="_blank"}\] \[[Github](https://github.com/PKU-SECLab/TEAM-MoE-dLLM){:target="_blank"}\]
+  **ICML 2026**, **CCF-A**, \[[Paper](http://arxiv.org/abs/2602.08404){:target="_blank"}\] \[[Github](https://github.com/PKU-SECLab/TEAM-MoE-dLLM){:target="_blank"}\]
 
 - Orchestrating Dual-Boundaries: An Arithmetic Intensity Inspired Acceleration Framework for Diffusion Language Models  
   **Linye Wei**, Wenjue Chen, Pingzhi Tang, Xiaotian Guo, Le Ye, Runsheng Wang, Meng Li  
