@@ -80,5 +80,5 @@ author_profile: true
 - <span class="news-date3">[2023.09]</span> 二〇二三年全国大学生电子设计竞赛国家二等奖
 - <span class="news-date3">[2023.09]</span> 二〇二三年全国大学生电子设计竞赛江苏赛区一等奖
 - <span class="news-date3">[2023.01]</span> 第十四届全国大学生数学竞赛（非数学类）一等奖
-- <span class="news-date3">[2022.11]</span> 二〇二二年全国大学生数学建模竞赛江苏赛区一等奖
+- <span class="news-date3">[2022.11]</span> 第十九届江苏省高等数学竞赛二等奖
 - <span class="news-date3">[2022.10]</span> 二〇二二年全国大学生数学建模竞赛江苏赛区一等奖
