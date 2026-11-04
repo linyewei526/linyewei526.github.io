@@ -71,7 +71,8 @@ Feel free to contact me at **lywei25@stu.pku.edu.cn**. I look forward to potenti
 
 🏆 Honors and Awards {#honors}
 ------
-- <span class="news-date3">[2026.09]</span> Wusi Scholarship, Peking University
+- <span class="news-date3">[2026.09]</span> May Fourth Scholarship, Peking University
+- <span class="news-date3">[2026.09]</span> Merit Student, Peking University
 - <span class="news-date3">[2025.11]</span> Presidential Scholarship for Ph.D. Students, Peking University
 - <span class="news-date3">[2025.10]</span> Dean’s Scholarship for Ph.D. Students, Peking University
 - <span class="news-date3">[2024.09]</span> Merit Student, Southeast University
