@@ -64,6 +64,11 @@ Feel free to contact me at **lywei25@stu.pku.edu.cn**. I look forward to potenti
   Hengyi Zhu\*, **Linye Wei\***, He Li  
   **WF-IoT 2025**, \[[Paper](http://arxiv.org/abs/2507.02963){:target="_blank"}\] \[[Github](https://github.com/linyewei526/VR-YOLO){:target="_blank"}\]
 
+🔬 Research Internship {#research-internship}
+------
+- <span class="news-date3">[2026.09–Present]</span> **Meituan, Beidou Program** · Beijing, China  
+  Topics: **Speculative Decoding** and **AI Infra**
+
 🏆 Honors and Awards {#honors}
 ------
 - <span class="news-date3">[2026.09]</span> Wusi Scholarship, Peking University
