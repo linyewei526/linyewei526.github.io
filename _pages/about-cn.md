@@ -11,8 +11,8 @@ author_profile: true
 我目前的研究兴趣主要聚焦于**高效人工智能系统**，重点关注**大语言模型推理加速**，**算法-系统协同设计**与**多模态**。
 
 这是我的个人简历: 
-[[CN]({{ base_path }}/files/cv-cn-260703.pdf){:target="_blank" rel="noopener noreferrer"}]
-[[EN]({{ base_path }}/files/cv-en-260703.pdf){:target="_blank" rel="noopener noreferrer"}] 
+[[CN]({{ base_path }}/files/cv-cn-261104.pdf){:target="_blank" rel="noopener noreferrer"}]
+[[EN]({{ base_path }}/files/cv-en-261104.pdf){:target="_blank" rel="noopener noreferrer"}] 
 欢迎随时通过邮箱 **lywei25@stu.pku.edu.cn** 与我联系。期待与您的合作与交流。
 
 🎓 教育经历 {#educations}
@@ -23,21 +23,25 @@ author_profile: true
 
 🔥 新闻动态 {#news}
 ------
+- <span class="news-date2">**2026.09.21**</span> 🏆 我获得了北京大学**五四奖学金**！
+
+- <span class="news-date2">**2026.09.21**</span> 🏆 我获得了北京大学**三好学生**！
+  
 - <span class="news-date2">**2026.05.01**</span> 🎉 我们的工作 **[TEAM](http://arxiv.org/abs/2602.08404){:target="_blank"}** 被 **ICML 2026** 接收!
 
 - <span class="news-date2">**2026.02.24**</span> 🎉 我们的工作 **[ODB-dLLM](http://arxiv.org/abs/2511.21759){:target="_blank"}** 被 **DAC 2026** 接收!
 
-- <span class="news-date2">**Oct 23, 2025**</span> 🏆 我获得了北京大学博士研究生**校长奖学金**!
+- <span class="news-date2">**2025.10.23**</span> 🏆 我获得了北京大学博士研究生**校长奖学金**!
 
-- <span class="news-date2">**Sep 02, 2025**</span> 🏆 我获得了北京大学人工智能研究院博士研究生**院长奖学金**!
+- <span class="news-date2">**2025.09.02**</span> 🏆 我获得了北京大学人工智能研究院博士研究生**院长奖学金**!
 
-- <span class="news-date2">**Jul 01, 2025**</span> 🎉 我们的工作 **[LS-Gaussian](http://arxiv.org/abs/2507.21572){:target="_blank"}** 被 **ICCAD 2025** 接收!
+- <span class="news-date2">**2025.07.01**</span> 🎉 我们的工作 **[LS-Gaussian](http://arxiv.org/abs/2507.21572){:target="_blank"}** 被 **ICCAD 2025** 接收!
 
-- <span class="news-date2">**Jun 26, 2025**</span> 🥇 我们团队获得了 **DAC 2025** 系统设计竞赛**第一名**!
+- <span class="news-date2">**2025.06.26**</span> 🥇 我们团队获得了 **DAC 2025** 系统设计竞赛**第一名**!
 
-- <span class="news-date2">**Feb 15, 2025**</span> 🎉 我们的工作 **[SpecASR](http://arxiv.org/abs/2507.18181){:target="_blank"}** 被 **DAC 2025** 接收!
+- <span class="news-date2">**2025.02.15**</span> 🎉 我们的工作 **[SpecASR](http://arxiv.org/abs/2507.18181){:target="_blank"}** 被 **DAC 2025** 接收!
 
-- <span class="news-date2">**Sep 29, 2024**</span> 🎓 我收到了北京大学博士研究生录取通知!
+- <span class="news-date2">**2024.09.29**</span> 🎓 我收到了北京大学博士研究生录取通知!
 
 🎉 发表论文 {#publications}
 ------
