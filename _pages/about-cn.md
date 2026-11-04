@@ -61,6 +61,11 @@ author_profile: true
   朱恒毅\*, **韦临烨\***, 李鹤  
   **WF-IoT 2025**, \[[Paper](http://arxiv.org/abs/2507.02963){:target="_blank"}\] \[[Github](https://github.com/linyewei526/VR-YOLO){:target="_blank"}\]
 
+🔬 科研实习 {#research-internship}
+------
+- <span class="news-date3">[2026.09–至今]</span> **美团，北斗计划** · 中国，北京  
+  研究方向：**投机解码（Speculative Decoding）**、**AI Infra**
+
 🏆 荣誉激励 {#honors}
 ------
 - <span class="news-date3">[2026.09]</span> 北京大学五四奖学金
