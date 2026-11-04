@@ -66,8 +66,8 @@ Feel free to contact me at **lywei25@stu.pku.edu.cn**. I look forward to potenti
 
 🔬 Research Internship {#research-internship}
 ------
-- <span class="news-date3">[2026.09–Present]</span> **Meituan, Beidou Program** · Beijing, China  
-  Topics: **Speculative Decoding** and **AI Infra**
+- <span class="news-date1">[2026.09-Now]</span> **Meituan, Beidou Program** · Beijing, China  
+  Topics: Speculative Decoding and AI Infra
 
 🏆 Honors and Awards {#honors}
 ------
