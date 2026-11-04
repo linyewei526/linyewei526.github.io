@@ -14,8 +14,8 @@ I am currently a first-year Ph.D. student at Institute for Artificial Intelligen
 My current research focuses on **Efficient AI Systems**, with particular emphasis on **LLM Inference Acceleration**, **Algorithm-System Co-design** and **Multimodal Synthesis**.
 
 My resumes are available here: 
-[[EN]({{ base_path }}/files/cv-en-260703.pdf){:target="_blank" rel="noopener noreferrer"}] 
-[[CN]({{ base_path }}/files/cv-cn-260703.pdf){:target="_blank" rel="noopener noreferrer"}]
+[[EN]({{ base_path }}/files/cv-en-261104.pdf){:target="_blank" rel="noopener noreferrer"}] 
+[[CN]({{ base_path }}/files/cv-cn-261104.pdf){:target="_blank" rel="noopener noreferrer"}]
 Feel free to contact me at **lywei25@stu.pku.edu.cn**. I look forward to potential collaborations and academic exchanges.
 
 🎓 Educations {#educations}
@@ -26,6 +26,10 @@ Feel free to contact me at **lywei25@stu.pku.edu.cn**. I look forward to potenti
 
 🔥 News {#news}
 ------
+- <span class="news-date2">**Sep 21, 2026**</span> 🏆 I receive **May Fourth Scholarship** from Peking University!
+
+- <span class="news-date2">**Sep 21, 2026**</span> 🏆 I receive **Merit Student** from Peking University!
+  
 - <span class="news-date2">**May 01, 2026**</span> 🎉 Our work **[TEAM](http://arxiv.org/abs/2602.08404){:target="_blank"}** is accepted by **ICML 2026**!
 
 - <span class="news-date2">**Feb 24, 2026**</span> 🎉 Our work **[ODB-dLLM](http://arxiv.org/abs/2511.21759){:target="_blank"}** is accepted by **DAC 2026**!
