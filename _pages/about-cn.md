@@ -69,6 +69,7 @@ author_profile: true
 🏆 荣誉激励 {#honors}
 ------
 - <span class="news-date3">[2026.09]</span> 北京大学五四奖学金
+- <span class="news-date3">[2026.09]</span> 北京大学“三好学生”
 - <span class="news-date3">[2025.11]</span> 北京大学博士研究生校长奖学金
 - <span class="news-date3">[2025.10]</span> 北京大学人工智能研究院博士研究生院长奖学金
 - <span class="news-date3">[2024.09]</span> 东南大学“三好学生”
