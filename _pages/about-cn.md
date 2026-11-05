@@ -67,7 +67,7 @@ author_profile: true
 
 🔬 科研实习 {#research-internship}
 ------
-- <span class="news-date1">[2026.09-至今]</span> **美团 · 北斗计划**  
+- <span class="news-date2">[2026.09-至今]</span> **美团 · 北斗计划**  
   中国 · 北京<br>
   研究方向：投机解码 (Speculative Decoding)、AI Infra
 
